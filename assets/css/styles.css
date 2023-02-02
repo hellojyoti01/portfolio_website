@@ -452,25 +452,34 @@ img {
   background-color: var(--first-color);
 }
 .skills__html{
-  width: 68%;
+  width: 95%;
 }
 .skills__css{
-  width: 49%;
+  width: 89%;
 }
 .skills__bootstrap{
   width: 23%;
 }
 .skills__react{
-  width: 7%;
+  width: 79%;
 }
 .skills__c{
   width: 40%;
 }
 .skills__nodejs{
-  width: 00%;
+  width: 30%;
 }
 .skills__mongodb{
-  width: 00%;
+  width: 30%;
+}
+.skills__js{
+  width: 80%;
+}
+.skills__webpack{
+width: 60%;
+}
+.skills__reactredux{
+  width: 65%;
 }
 
 
@@ -647,6 +656,7 @@ img {
   padding: 0 1.5rem;
 }
 .portfolio__img{
+  height: 300px;
   width: 265px;
   border-radius: .5rem;
   justify-self: center;
